@@ -1,0 +1,10 @@
+{
+  "name": "Flutter Dev Environment",
+  "image": "ghcr.io/cirruslabs/flutter:stable",
+  "customizations": {
+    "vscode": {
+      "extensions": ["dart-code.flutter", "dart-code.dart-code"]
+    }
+  },
+  "remoteUser": "root"
+}
